@@ -1,0 +1,23 @@
+[
+{
+  "currencyCode": "HKD",
+  "tradability":{
+    "sellable": true,
+    "buyable": true
+  }
+},
+{
+"currencyCode": "USD",
+"tradability":{
+"sellable": true,
+"buyable": false
+}
+},
+{
+"currencyCode": "UKD",
+"tradability":{
+"sellable": false,
+"buyable": true
+}
+}
+]
